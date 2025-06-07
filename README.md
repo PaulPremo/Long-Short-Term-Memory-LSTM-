@@ -1,4 +1,4 @@
-# Long-Short-Term-Memory-LSTM-
+# Long-Short-Term-Memory
 Stock Price Prediction with LSTM
 
 ---
